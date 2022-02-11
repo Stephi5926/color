@@ -1,2 +1,2 @@
 # color
-highlghting an image
+Sometimes the interaction of color creates mood.
